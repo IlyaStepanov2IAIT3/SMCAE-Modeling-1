@@ -1,0 +1,11 @@
+C:\Users\ilyas\source\repos\Modeling\Compilation of algebraic expressions\bin\Debug\Compilation of algebraic expressions.exe.config
+C:\Users\ilyas\source\repos\Modeling\Compilation of algebraic expressions\bin\Debug\Compilation of algebraic expressions.exe
+C:\Users\ilyas\source\repos\Modeling\Compilation of algebraic expressions\bin\Debug\Compilation of algebraic expressions.pdb
+C:\Users\ilyas\source\repos\Modeling\Compilation of algebraic expressions\obj\Debug\Compilation of algebraic expressions.csproj.AssemblyReference.cache
+C:\Users\ilyas\source\repos\Modeling\Compilation of algebraic expressions\obj\Debug\Compilation_of_algebraic_expressions.Properties.Resources.resources
+C:\Users\ilyas\source\repos\Modeling\Compilation of algebraic expressions\obj\Debug\Compilation of algebraic expressions.csproj.GenerateResource.cache
+C:\Users\ilyas\source\repos\Modeling\Compilation of algebraic expressions\obj\Debug\Compilation of algebraic expressions.csproj.CoreCompileInputs.cache
+C:\Users\ilyas\source\repos\Modeling\Compilation of algebraic expressions\obj\Debug\Compilation of algebraic expressions.exe
+C:\Users\ilyas\source\repos\Modeling\Compilation of algebraic expressions\obj\Debug\Compilation of algebraic expressions.pdb
+C:\Users\ilyas\source\repos\Modeling\Compilation of algebraic expressions\obj\Debug\Compilation_of_algebraic_expressions.FuncMaster.resources
+C:\Users\ilyas\source\repos\Modeling\Compilation of algebraic expressions\obj\Debug\Compilation_of_algebraic_expressions.MainWindow.resources
